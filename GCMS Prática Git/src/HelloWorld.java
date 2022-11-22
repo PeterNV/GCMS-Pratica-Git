@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("Pedro Vila Nova!!!");
 		System.out.println("Flavio Vila Nova!!!");
 		System.out.println("Carla Vila Nova!!!");
+		System.out.println("Lucas Peixoto!!!");
 	}
 }
