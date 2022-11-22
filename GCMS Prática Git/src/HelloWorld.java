@@ -9,14 +9,14 @@ public class HelloWorld {
 		System.out.println("Dulce Peixoto!!!");
 		System.out.println("Alexandre Peixoto!!!!");
 		System.out.println("ZeymosgensX!!!!");
-<<<<<<< HEAD
+
 		System.out.println("Zaycron!!!!");
 		System.out.println("ZAYCRONX!!!!");
 		System.out.println("ZAYCRONX!!!!");
-=======
+
 		System.out.println("ZAYCRON!!!!");
 		System.out.println("ZAYCRONX!!!!");
 		System.out.println("THE ZAYCRONX!!!!");
->>>>>>> hotfix
+
 	}
 }
