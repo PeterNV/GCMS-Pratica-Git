@@ -9,5 +9,7 @@ public class HelloWorld {
 		System.out.println("Dulce Peixoto!!!");
 		System.out.println("Alexandre Peixoto!!!!");
 		System.out.println("ZeymosgensX!!!!");
+		System.out.println("Zaycron!!!!");
+		System.out.println("ZAYCRONX!!!!");
 	}
 }
